@@ -22,4 +22,4 @@ Projeto desenvolvido durante meus estudos de programação, com o objetivo de pr
 ## 🌐 Demonstração
 
 Acesse o projeto: 
-[Clima Tempo - Acessar site](https://thiagojoel.github.io/clima-tempo/)
+[Clima Tempo - Acessar site](https://thiagowjoel.github.io/clima-tempo/)
