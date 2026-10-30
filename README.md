@@ -15,6 +15,6 @@ Aplicação web de previsão do tempo desenvolvida com HTML, CSS e JavaScript, u
 - JavaScript
 - API de previsão do tempo
 
-Objetivo
+##Objetivo
 
 Projeto desenvolvido durante meus estudos de programação, com o objetivo de praticar JavaScript, consumo de APIs e desenvolvimento web.
